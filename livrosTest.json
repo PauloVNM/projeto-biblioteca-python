@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "titulo": "O Guia do Mochileiro das Gal\u00e1xias",
+        "autor": "Douglas Adams",
+        "status": {
+            "estado": "disponivel",
+            "emprestado_para_id": null,
+            "data_emprestimo": null,
+            "data_devolucao": null
+        }
+    },
+    {
+        "id": 2,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "status": {
+            "estado": "disponivel",
+            "emprestado_para_id": null,
+            "data_emprestimo": null,
+            "data_devolucao": null
+        }
+    },
+    {
+        "id": 3,
+        "titulo": "O Senhor dos An\u00e9is",
+        "autor": "J.R.R. Tolkien",
+        "status": {
+            "estado": "emprestado",
+            "emprestado_para_id": 2,
+            "data_emprestimo": "2025-08-15",
+            "data_devolucao": "2025-08-29"
+        }
+    },
+    {
+        "id": 4,
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "status": {
+            "estado": "disponivel",
+            "emprestado_para_id": null,
+            "data_emprestimo": null,
+            "data_devolucao": null
+        }
+    },
+    {
+        "id": 5,
+        "titulo": "Cem Anos de Solid\u00e3o",
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "status": {
+            "estado": "emprestado",
+            "emprestado_para_id": 1,
+            "data_emprestimo": "2025-08-25",
+            "data_devolucao": "2025-09-08"
+        }
+    },
+    {
+        "id": 6,
+        "titulo": "A Revolu\u00e7\u00e3o dos Bichos",
+        "autor": "George Orwell",
+        "status": {
+            "estado": "disponivel",
+            "emprestado_para_id": null,
+            "data_emprestimo": null,
+            "data_devolucao": null
+        }
+    },
+    {
+        "id": 7,
+        "titulo": "O Sol \u00e9 Para Todos",
+        "autor": "Harper Lee",
+        "status": {
+            "estado": "disponivel",
+            "emprestado_para_id": null,
+            "data_emprestimo": null,
+            "data_devolucao": null
+        }
+    },
+    {
+        "id": 8,
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "status": {
+            "estado": "emprestado",
+            "emprestado_para_id": 3,
+            "data_emprestimo": "2025-08-18",
+            "data_devolucao": "2025-09-01"
+        }
+    },
+    {
+        "id": 9,
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "status": {
+            "estado": "disponivel",
+            "emprestado_para_id": null,
+            "data_emprestimo": null,
+            "data_devolucao": null
+        }
+    },
+    {
+        "id": 10,
+        "titulo": "Grande Sert\u00e3o: Veredas",
+        "autor": "Jo\u00e3o Guimar\u00e3es Rosa",
+        "status": {
+            "estado": "disponivel",
+            "emprestado_para_id": null,
+            "data_emprestimo": null,
+            "data_devolucao": null
+        }
+    },
+    {
+        "id": 11,
+        "titulo": "Mem\u00f3rias P\u00f3stumas de Br\u00e1s Cubas",
+        "autor": "Machado de Assis",
+        "status": {
+            "estado": "emprestado",
+            "emprestado_para_id": 4,
+            "data_emprestimo": "2025-08-28",
+            "data_devolucao": "2025-09-11"
+        }
+    },
+    {
+        "id": 12,
+        "titulo": "O Apanhador no Campo de Centeio",
+        "autor": "J.D. Salinger",
+        "status": {
+            "estado": "disponivel",
+            "emprestado_para_id": null,
+            "data_emprestimo": null,
+            "data_devolucao": null
+        }
+    }
+]
